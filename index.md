@@ -10,3 +10,4 @@ Bienvenido a mis notas en GitHub Pages.
 - [openings](openings.md)
 - [canciones](canciones.md)
 - [soundrack/ost](soundrack/ost.md)
+- [canciones-explotadas](canciones-explotadas.md)
