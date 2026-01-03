@@ -11,3 +11,4 @@ Bienvenido a mis notas en GitHub Pages.
 - [canciones](canciones.md)
 - [soundrack/ost](soundrack-ost.md)
 - [canciones-explotadas](canciones-explotadas.md)
+- [artistas](artistas.md)
